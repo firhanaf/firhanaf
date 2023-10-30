@@ -16,8 +16,8 @@
 
 ### 📫 Connect with Me
 
-- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/firhanahmad16/)](#)
-- Twitter: [@firhan_7](#)
+- LinkedIn: [[Firhan Ahmad F]](https://www.linkedin.com/in/firhanahmad16/)
+- Twitter: [@firhan_7](https://twitter.com/firhan_7)
 - Email: [firhanahmadf@gmail.com](mailto:firhanahmadf@gamil.com)
 
 ---
