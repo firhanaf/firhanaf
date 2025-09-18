@@ -14,14 +14,6 @@
 
 ---
 
-### 📫 Connect with Me
-
-- LinkedIn: [Firhan Ahmad F](https://www.linkedin.com/in/firhanahmad16/)
-- Twitter: [@firhan_7](https://twitter.com/firhan_7)
-- Email: [firhanahmadf@gmail.com](mailto:firhanahmadf@gamil.com)
-
----
-
 ### 🌟 Skills
 
 - **Languages**: Golang, Javascript, Python, PHP, Java
@@ -29,6 +21,14 @@
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Docker, GCP, AWS
 - **Other**: RESTful APIs, Microservices, Clean Architecture
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: [Firhan Ahmad F](https://www.linkedin.com/in/firhanahmad16/)
+- Twitter: [@firhan_7](https://twitter.com/firhan_7)
+- Email: [firhanahmadf@gmail.com](mailto:firhanahmadf@gamil.com)
 
 ---
 
