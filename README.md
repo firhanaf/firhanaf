@@ -24,8 +24,8 @@
 
 ### 🌟 Skills
 
-- **Languages**: Golang
-- **Frameworks**: Echo, GORM
+- **Languages**: Golang, Javascript, Python, PHP, Java
+- **Frameworks**: Echo, GORM, Fibre, Viper, Laravel, Django, React, Vite
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Tools**: Docker, GCP, AWS
 - **Other**: RESTful APIs, Microservices, Clean Architecture
