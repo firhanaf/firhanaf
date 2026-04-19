@@ -1,34 +1,59 @@
 # 👋 Hi there! I'm Firhan Ahmad F
 
-## 🛠️ Backend Developer & Tech Enthusiast
+### Backend & Mobile Engineer | Jakarta, Indonesia
+
+---
+
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Javascript](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 Passionate about backend development and technology.
-- 💡 Skilled in Golang, RESTful APIs, and Database Design.
-- 🌐 Exploring containerization, microservices, and cloud-native technologies.
-- 📚 Continuously learning to adapt to new challenges.
-- 🤝 Open to collaboration and contributions to open-source projects.
+- Backend engineer with experience building scalable REST APIs and microservices using **Golang**. I also build cross-platform mobile apps and work with cloud infrastructure (GCP, AWS) and containerization with Docker.
+
+- 🌱 Currently deepening expertise in **cloud-native** & **microservices architecture**
+- 🤝 Open to **remote full-time** and **freelance** opportunities
+- 📍 Based in Jakarta, Indonesia
 
 ---
 
-### 🌟 Skills
+## 🛠️ Tech Stack
 
-- **Languages**: Golang, Javascript, Python, PHP, Java
-- **Frameworks**: Echo, GORM, Fibre, Viper, Laravel, Django, React, Vite
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Docker, GCP, AWS
-- **Other**: RESTful APIs, Microservices, Clean Architecture
+**Backend**
+`Golang` `PHP` `Python` `Laravel` `Django` `Echo` `Fiber` `GORM`
+
+**Mobile & Frontend**
+`Android (Kotlin)` `React` `JavaScript`
+
+**DevOps & Cloud**
+`Docker` `GCP` `AWS` `CI/CD` `Microservices` `Clean Architecture`
+
+**Database**
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+---
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [E-Dhompet](https://github.com/firhanaf/E-Dhompet) | Digital wallet REST API | Golang, PostgreSQL, Docker |
+| *(coming soon)* | Mobile app project | Android, Firebase |
+| *(coming soon)* | DevOps / infra project | Docker, AWS |
+
+---
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/firhanahmad16)
+- 🐦 [Twitter](https://twitter.com/firhan_7)
+- 📧 firhanahmadf@gmail.com
 
 ---
 
-### 📫 Connect with Me
-
-- LinkedIn: [Firhan Ahmad F](https://www.linkedin.com/in/firhanahmad16/)
-- Twitter: [@firhan_7](https://twitter.com/firhan_7)
-- Email: [firhanahmadf@gmail.com](mailto:firhanahmadf@gamil.com)
-
----
+*Open to remote opportunities — feel free to reach out!*
 
