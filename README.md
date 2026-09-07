@@ -19,7 +19,7 @@
 
 - 🌱 Currently deepening expertise in **cloud-native** & **microservices architecture**
 - 🤝 Open to **remote full-time** and **freelance** opportunities
-- 📍 Based in Jakarta, Indonesia
+- 📍 Based in Malang, Indonesia
 
 ---
 
