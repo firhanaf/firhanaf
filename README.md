@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Firhan Ahmad F
 
-### Backend & Mobile Engineer | Jakarta, Indonesia
+### Backend & Fullstack Developer | Malang, Indonesia
 
 ---
 
